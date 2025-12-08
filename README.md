@@ -1,5 +1,5 @@
 ---
-#*3D Model of My House – Created in Fusion 360*
+3D Model of My House – Created in Fusion 360
 
 ### **Overview**
 
